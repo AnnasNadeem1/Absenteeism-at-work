@@ -21,7 +21,8 @@ This project provides a data-driven approach to understanding employee absenteei
 - Dashboard creation for insights
 
 ## 📊 Dashboard Insights
-![Dashboard Overview](![dash](https://github.com/user-attachments/assets/cb0fd7fb-036a-42b4-9731-99154aa4fa45)
+![Dashboard Overview](![dash](https://github.com/user-attachments/assets/34ebab12-fb26-44d4-a770-6968b7d31be4)
+)
 )
 
 - Average absenteeism: **5.96 hours**
