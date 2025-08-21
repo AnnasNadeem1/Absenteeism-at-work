@@ -21,9 +21,9 @@ This project provides a data-driven approach to understanding employee absenteei
 - Dashboard creation for insights
 
 ## 📊 Dashboard Insights
-![Dashboard Overview](![dash](https://github.com/user-attachments/assets/34ebab12-fb26-44d4-a770-6968b7d31be4)
-)
-)
+![WhatsApp Image 2025-08-19 at 20 22 53_13361fb5](https://github.com/user-attachments/assets/3e3f827d-9122-4e3a-8f68-6bb75c135218)
+![Uploading dash.jpg…]()
+
 
 - Average absenteeism: **5.96 hours**
 - Peak seasons: **Fall and Winter**
@@ -48,5 +48,4 @@ This project provides a data-driven approach to understanding employee absenteei
 | `dashboard/`  | Dashboard screenshots or exports             |
 | `images/`     | Visuals used in README or documentation      |
 
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
